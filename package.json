@@ -1,0 +1,22 @@
+{
+  "name": "apollo-io-alternative-b2b-lead-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cookie-free Apollo.io scraper alternative for Clay.com, n8n & Claude MCP: discover B2B companies or enrich domains with MX/SPF/DMARC verified emails, executives, LinkedIn URLs & 35+ tech stack tags ($0.80/1k leads, $5/mo free credit).",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "apollo",
+    "apollo-scraper",
+    "b2b-leads",
+    "email-finder",
+    "lead-generation",
+    "clay",
+    "n8n",
+    "mcp-server",
+    "apify"
+  ],
+  "license": "MIT"
+}
